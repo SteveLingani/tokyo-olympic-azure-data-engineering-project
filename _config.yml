@@ -1,5 +1,5 @@
 title: Data Portfolio
 show_downloads: False
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/primer@v0.2.0
 plugins:
 - jekyll-remote-theme 
