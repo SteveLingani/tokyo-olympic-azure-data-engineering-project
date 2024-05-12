@@ -41,7 +41,7 @@ The architecture of the project consists of the following components:
 - Azure SQL Database
 - Azure Synapse Analytics
 
-[screanshoot](google.com)
+[screenshot](google.com)
 
 # Getting Started
 
@@ -53,12 +53,12 @@ The architecture of the project consists of the following components:
 
 # Data Ingestion
 
-[screanshoot](google.com)
+[screenshoot](google.com)
 
 
 # Data Processing
 
-[screanshoot](google.com)
+[screenshot](google.com)
 
 The data processing stage involves cleaning and transforming raw Olympic data into a structured format suitable for analysis. This step takes advantage of Azure Databricks' distributed computing capabilities for efficient processing.
 
