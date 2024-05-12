@@ -1,4 +1,4 @@
-# tokyo-olympic-azure-data-engineering-project
+# Data engineering project: Tokyo Olympic ETL using Azure 
 
 The Tokyo Olympic Data Analysis on Azure initiative offers an extensive approach to examining and presenting Olympic Games data through Azure's diverse services. Its goal is to demonstrate how cloud computing and Azure's data tools can be utilized to extract insights from past Olympic records. Through the integration of Azure Databricks, Azure Data Factory, and other Azure components, this project offers a flexible and effective means to handle, modify, and scrutinize substantial amounts of Olympic-related data.
 
