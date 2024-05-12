@@ -19,7 +19,7 @@ The Olympic Data Analysis on Azure initiative illustrates the process of constru
 
 # Architecture
 
-[Architecture](google.com)
+[Architecture](Screenshot/Poject architecture.png)
 
 The architecture of the project consists of the following components:
 
