@@ -8,7 +8,7 @@ The Tokyo Olympic Data Analysis on Azure initiative offers an extensive approach
 - [Architecture](#Architecture)
 - [Technologies Used](#TechnologiesUsed)
 - [Getting Started](#GettingStarted)
-- [Prerequisites](#Prerequisites)
+  - [Prerequisites](#Prerequisites)
 - [Data Ingestion](#DataIngestion)
 - [Data Processing](#DataProcessing)
 - [Conclusion](#Conclusion)
